@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6e874ae7e0200cb4ba58e3bc6ca5c783
+timeCreated: 1478610373
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCiel Soup of Justice
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a15713624e603043b69340ecb7ab442, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
